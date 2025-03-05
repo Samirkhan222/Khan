@@ -1,0 +1,112 @@
+From MAILER-DAEMON Wed Jul  6 14:54:24 2022
+Date: 06 Jul 2022 14:54:24 -0700
+From: Mail System Internal Data <MAILER-DAEMON@ecs-pa-coding1.ecs.csus.edu>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+Message-ID: <1657144464@ecs-pa-coding1.ecs.csus.edu>
+X-IMAP: 1656744118 0000000002
+Status: RO
+
+This text is part of the internal format of your mail folder, and is not
+a real message.  It is created automatically by the mail system software.
+If deleted, important folder data will be lost, and it will be re-created
+with the data reset to initial values.
+
+From samirkhan2@ecs-pa-coding1.ecs.csus.edu Fri Jul  1 23:42:31 2022 -0700
+Date: Fri, 1 Jul 2022 23:42:31 -0700 (PDT)
+From: samirkhan2 <samirkhan2@ecs-pa-coding1.ecs.csus.edu>
+To: dcook@csus.edu
+Subject: lab 6
+Message-ID: <51cd2efe-918b-ce11-a953-67b19b85c19@ecs-pa-coding1.ecs.csus.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1451368892-1071749415-1656744151=:14980"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 1
+
+--1451368892-1071749415-1656744151=:14980
+Content-Type: text/plain; format=flowed; charset=US-ASCII
+
+--1451368892-1071749415-1656744151=:14980
+Content-Type: text/plain; charset=US-ASCII; name=lab6.asm
+Content-Transfer-Encoding: BASE64
+Content-ID: <babd4311-ca26-f07c-589-f3785ac0a659@ecs-pa-coding1.ecs.csus.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab6.asm
+
+LmludGVsX3N5bnRheCBub3ByZWZpeA0KLmRhdGENCg0KICAgZ3JlZXQ6DQog
+ICAgIC5hc2NpaSAiSGVsbG8hIFdlbGNvbWUgdG8gdGhlIHZhbG9yYW50IHN0
+b3JlIVxuXDAiDQogICANCiAgIG9wdDE6DQogICAgIC5hc2NpaSAiMS4gUmVh
+dmVyIHZhbmRhbCAoNzUgVlBvaW50cylcblwwIg0KDQogICBvcHQyOg0KICAg
+ICAuYXNjaWkgIjIuIElvbiBvcGVyYXRvciAoNTAgVlBvaW50cylcblwwIg0K
+DQogICBvcHQzOg0KICAgICAuYXNjaWkgIjMuIFZlbmdlYW5jZSBzaGVyaWZm
+ICgxMjAgVlBvaW50cylcblwwIg0KDQogICBvcHQ0Og0KICAgICAuYXNjaWkg
+IjQuIEdhaWEgdmFuZGFsICg3NSBWUG9pbnRzKVxuXDAiDQogDQogICBvcHQ1
+Og0KICAgICAuYXNjaWkgIjUuIENhbmNlbCB0aGUgb3JkZXIgKDAgVlBvaW50
+cylcblwwIg0KDQogICBOYW1lczoNCiAgICAgLnF1YWQgb3B0MQ0KDQogICAg
+IC5xdWFkIG9wdDINCg0KICAgICAucXVhZCBvcHQzDQoNCiAgICAgLnF1YWQg
+b3B0NA0KIA0KICAgICAucXVhZCBvcHQ1DQoNCiAgIFBvaW50czoNCiAgICAg
+LnF1YWQgNzUNCg0KICAgICAucXVhZCA1MA0KDQogICAgIC5xdWFkIDEyMA0K
+DQogICAgIC5xdWFkIDc1DQogIA0KICAgICAucXVhZCAwDQoNCiAgIGJhbGFu
+Y2U6DQogICAgICAuYXNjaWkgIkhvdyBtdWNoIFZQb2ludHMgYXJlIHlvdSBp
+bnB1dHRpbmc/XG5cMCINCg0KICAgYmFsOg0KICAgICAucXVhZCAwDQoNCiAg
+IHNlbGVjdGlvbjoNCiAgICAgIC5hc2NpaSAiRW50ZXIgeW91ciBzZWxlY3Rp
+b246XG5cMCINCg0KICAgc2VsOg0KICAgICAucXVhZCAwDQoNCiAgIGNoYW5n
+ZToNCiAgICAgLmFzY2lpICJZb3VyIGNoYW5nZSBpcyBcMCINCg0KICAgY2hh
+bmdlZW5kOg0KICAgICAuYXNjaWkgIiBWUG9pbnRzLlxuXDAiDQoNCi50ZXh0
+DQogDQouZ2xvYmFsIF9zdGFydA0KDQpfc3RhcnQ6DQoNCmxlYSByY3gsIGdy
+ZWV0CQ0KY2FsbCBQcmludFN0cmluZ1oNCg0KbGVhIHJjeCwgb3B0MQ0KY2Fs
+bCBQcmludFN0cmluZ1oNCg0KbGVhIHJjeCwgb3B0Mg0KY2FsbCBQcmludFN0
+cmluZ1oNCg0KbGVhIHJjeCwgb3B0Mw0KY2FsbCBQcmludFN0cmluZ1oNCg0K
+bGVhIHJjeCwgb3B0NA0KY2FsbCBQcmludFN0cmluZ1oNCg0KbGVhIHJjeCwg
+b3B0NQ0KY2FsbCBQcmludFN0cmluZ1oNCg0KbGVhIHJjeCwgYmFsYW5jZQ0K
+Y2FsbCBQcmludFN0cmluZ1oNCmNhbGwgU2NhbkludA0KbW92IHJheCwgcmN4
+DQoNCmxlYSByY3gsIHNlbGVjdGlvbg0KY2FsbCBQcmludFN0cmluZ1oNCmNh
+bGwgU2NhbkludA0Kc3ViIHJjeCwgMQ0KbW92IHNlbCwgcmN4DQptb3YgcmRp
+LCBzZWwNCg0KbW92IHJjeCwgW05hbWVzICsgcmRpICogOF0NCmNhbGwgUHJp
+bnRTdHJpbmdaDQoNCmxlYSByY3gsIGNoYW5nZQ0KY2FsbCBQcmludFN0cmlu
+Z1oNCg0KbW92IHJjeCwgW1BvaW50cyArIHJkaSAqIDhdDQpzdWIgcmF4LCBy
+Y3gNCm1vdiByY3gsIHJheA0KY2FsbCBQcmludEludA0KDQpsZWEgcmN4LCBj
+aGFuZ2VlbmQNCmNhbGwgUHJpbnRTdHJpbmdaDQoNCmNhbGwgRXhpdA0K
+
+--1451368892-1071749415-1656744151=:14980--
+
+From samirkhan2@ecs-pa-coding1.ecs.csus.edu Wed Jul  6 14:54:24 2022 -0700
+Date: Wed, 6 Jul 2022 14:54:24 -0700 (PDT)
+From: samirkhan2 <samirkhan2@ecs-pa-coding1.ecs.csus.edu>
+To: dcook@csus.edu
+Subject: lab 7
+Message-ID: <b071d43-ec9a-9712-d9a-acb0a25e6752@ecs-pa-coding1.ecs.csus.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1451368892-1654143924-1657144464=:32414"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 2
+
+--1451368892-1654143924-1657144464=:32414
+Content-Type: text/plain; format=flowed; charset=US-ASCII
+
+--1451368892-1654143924-1657144464=:32414
+Content-Type: text/plain; charset=US-ASCII; name=lab7.asm
+Content-Transfer-Encoding: BASE64
+Content-ID: <1497e3e1-b889-fd53-7d69-d3b31a44871d@ecs-pa-coding1.ecs.csus.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab7.asm
+
+LmludGVsX3N5bnRheCBub3ByZWZpeA0KDQouZGF0YQ0KDQpXb3JsZDoNCiAg
+LmFzY2lpICJIZWxsbyBXb3JsZCFcbiINCg0KV2ludGVyOg0KICAuYXNjaWkg
+InNsZWVwIGFuZCBwbGF5IGFwZXggbGVnZW5kcyFcbiINCg0KQ2xhc3M6DQog
+IC5hc2NpaSAiQSBmdW4gY2xhc3Mgd291bGQgYmUgcGh5c2ljcyAxMWFcbiIN
+Cg0KTmFtZToNCiAgLmJ5dGUgMTE1DQogIC5ieXRlIDk3DQogIC5ieXRlIDEw
+OQ0KICAuYnl0ZSAxMA0KDQoudGV4dA0KLmdsb2JhbCBfc3RhcnQNCg0KX3N0
+YXJ0Og0KDQptb3YgcmF4LCAxDQptb3YgcmRpLCAxDQpsZWEgcnNpLCBXb3Js
+ZA0KbW92IHJkeCwgMTMNCnN5c2NhbGwNCg0KbW92IHJheCwgMQ0KbW92IHJk
+aSwgMQ0KbGVhIHJzaSwgV2ludGVyDQptb3YgcmR4LCAyOQ0Kc3lzY2FsbA0K
+DQptb3YgcmF4LCAxDQptb3YgcmRpLCAxDQpsZWEgcnNpLCBDbGFzcw0KbW92
+IHJkeCwgMzMNCnN5c2NhbGwNCg0KbW92IHJheCwgMQ0KbW92IHJkaSwgMQ0K
+bGVhIHJzaSwgTmFtZQ0KbW92IHJkeCwgNA0Kc3lzY2FsbA0KDQptb3YgcmF4
+LCA2MA0Kc3lzY2FsbA0K
+
+--1451368892-1654143924-1657144464=:32414--
+

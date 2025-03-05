@@ -1,0 +1,59 @@
+.intel_syntax noprefix
+.data
+
+  firstq:
+    .ascii "Hello, did you wash your hands prior to getting sick (1=yes 2=no)/n/0"
+
+  sick:
+    .quad 0
+                                                
+  secondq:
+    .ascii "Did you eat all of your vitamins? (1=yes 2=no)/n/0"
+
+   vitamin:
+     .quad 0
+
+  thirdq:
+    .ascii "Did you santize and clean your room? (1=yes 2=no)/n/0"
+
+   sanitize:
+     .quad 0
+
+  fourthq:
+    .ascii "Did you have a sore throat before getting sick? (1=yes 2=no)/n/0"
+
+   sore:
+     .quad 0
+
+  fifthq:
+    .ascii "Were you stressed out before getting sick? (1=yes 2=no)/n/0"
+
+    stress:
+     .quad 0
+
+   .text
+   .global _start
+
+_start:
+   lea rcx, firstq
+   call PrintStringZ
+  
+   call ScanInt
+   cmp rcx, 1
+   jl  Else
+   
+   #true block
+   add rbx, 25
+
+   Else:
+     jmp lea rcx secondq
+   
+   lea rcx, secondq
+   call PrintStringz
+
+   rbx
+
+
+   
+   
+ 

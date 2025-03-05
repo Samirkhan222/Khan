@@ -1,0 +1,280 @@
+From MAILER-DAEMON Mon Jun 27 15:51:01 2022
+Date: 27 Jun 2022 15:51:01 -0700
+From: Mail System Internal Data <MAILER-DAEMON@ecs-pa-coding1.ecs.csus.edu>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+Message-ID: <1656370261@ecs-pa-coding1.ecs.csus.edu>
+X-IMAP: 1654899868 0000000005
+Status: RO
+
+This text is part of the internal format of your mail folder, and is not
+a real message.  It is created automatically by the mail system software.
+If deleted, important folder data will be lost, and it will be re-created
+with the data reset to initial values.
+
+From samirkhan2@ecs-pa-coding1.ecs.csus.edu Fri Jun 10 15:25:47 2022 -0700
+Date: Fri, 10 Jun 2022 15:25:47 -0700 (PDT)
+From: samirkhan2 <samirkhan2@ecs-pa-coding1.ecs.csus.edu>
+To: dcook@csus.edu
+Subject: lab 1 
+Message-ID: <c2dd8af5-3258-2462-3e68-2558b4bcb343@ecs-pa-coding1.ecs.csus.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1451368892-1517303371-1654899947=:25732"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 1
+
+--1451368892-1517303371-1654899947=:25732
+Content-Type: text/plain; format=flowed; charset=US-ASCII
+
+--1451368892-1517303371-1654899947=:25732
+Content-Type: text/plain; charset=US-ASCII; name=lab1.asm
+Content-Transfer-Encoding: BASE64
+Content-ID: <fabb7a-9c66-8da-826f-284a325d527@ecs-pa-coding1.ecs.csus.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab1.asm
+
+LmludGVsX3N5bnRheCBub3ByZWZpeA0KLmRhdGEgIA0KIEdyZWV0aW5nOg0K
+ICAgICAuYXNjaWkgIkhvd2R5LCB3b3JsZCFcblwwIg0KDQogTmFtZToNCiAg
+IC5hc2NpaSAiTXkgbmFtZSBpcyBTYW1pciFcblwwIg0KDQogUXVvdGU6DQog
+ICAuYXNjaWkgIidJZiBvbmUgb2YgZ29lcyB0aHJvdWdoIGl0IHRoZW4gd2Ug
+YWxsIGdvIHRocm91Z2ggaXQtRHJha2UnXG5cMCINCg0KIFllYXI6DQogICAu
+YXNjaWkgIkluIHRoZSB5ZWFyICINCg0KIEFjdHVhbDoNCiAgIC5xdWFkIDAN
+Cg0KIEZpbmFsOg0KICAgLmFzY2lpICJJIHdhcyBib3JuIFxuXDAiDQogDQog
+IC50ZXh0DQogIC5nbG9iYWwgX3N0YXJ0DQoNCiBfc3RhcnQ6DQogICAgIGxl
+YSByY3gsIEdyZWV0aW5nDQogICAgIGNhbGwgUHJpbnRTdHJpbmdaDQoNCiAg
+ICAgbGVhIHJjeCwgTmFtZQ0KICAgICBjYWxsIFByaW50U3RyaW5nWg0KDQog
+ICAgIGxlYSByY3gsIFF1b3RlDQogICAgIGNhbGwgUHJpbnRTdHJpbmdaDQoN
+CiAgICAgbGVhIHJjeCwgWWVhcg0KICAgICBjYWxsIFByaW50U3RyaW5nWg0K
+DQogICAgIG1vdiByY3gsIDIwMDINCiAgICAgY2FsbCBQcmludEludA0KDQog
+ICAgIGxlYSByY3gsIEZpbmFsDQogICAgIGNhbGwgUHJpbnRTdHJpbmdaDQoN
+Cg0KICAgICBjYWxsIEV4aXQNCg==
+
+--1451368892-1517303371-1654899947=:25732--
+
+From samirkhan2@ecs-pa-coding1.ecs.csus.edu Mon Jun 13 15:27:40 2022 -0700
+Date: Mon, 13 Jun 2022 15:27:40 -0700 (PDT)
+From: samirkhan2 <samirkhan2@ecs-pa-coding1.ecs.csus.edu>
+To: dcook@csus.edu
+Subject: lab2
+Message-ID: <617b377f-d6f9-d9ed-5f5b-89269458a56a@ecs-pa-coding1.ecs.csus.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1451368892-465408354-1655159260=:16400"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 2
+
+--1451368892-465408354-1655159260=:16400
+Content-Type: text/plain; format=flowed; charset=US-ASCII
+
+--1451368892-465408354-1655159260=:16400
+Content-Type: text/plain; charset=US-ASCII; name=lab2.asm
+Content-Transfer-Encoding: BASE64
+Content-ID: <2cd150b4-bf14-d4e9-f7a8-c7e49421c89@ecs-pa-coding1.ecs.csus.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab2.asm
+
+LmludGVsX3N5bnRheCBub3ByZWZpeA0KLmRhdGEgIA0KIEdyZWV0aW5nOg0K
+ICAgICAuYXNjaWkgIkhvdyBtdWNoIGRvIHlvdSBlYXJuIGZyb20gd29yaz9c
+blwwIg0KDQpXb3JrOg0KICAgLnF1YWQgMA0KDQogTmFtZToNCiAgIC5hc2Np
+aSAiSG93IG11Y2ggZG8geW91IGVhcm4gZnJvbSBzZWxsaW5nIGdhbGxvbnMg
+b2YgbWlsaz9cblwwIg0KDQpHYWxsb25zOg0KICAgLnF1YWQgMCANCg0KIFF1
+b3RlOg0KICAgLmFzY2lpICJIb3cgbXVjaCBkbyB5b3Ugc3BlbmQgb24gZ3Jv
+Y2VyaWVzP1xuXDAiDQoNCkdyb2NlcmllczoNCiAgIC5xdWFkIDANCg0KIFll
+YXI6DQogICAuYXNjaWkgIkhvdyBtdWNoIGRvIHlvdSBzcGVuZCBvbiB0aGUg
+cG93ZXIgYmlsbD8iDQoNClBvd2VyOg0KICAgLnF1YWQgMA0KDQpJbmNvbWU6
+DQogICAuYXNjaWkgIlxuWW91ciBpbmNvbWUgaXMgXDAiDQoNCkV4cGVuc2U6
+DQogICAuYXNjaWkgIlxuWW91ciBleHBlbnNlcyBhcmUgXDAiDQoNCkNhc2hm
+bG93Og0KICAgLmFzY2lpICJcbllvdXIgZmluYWwgY2FzaGZsb3cgYW1vdW50
+IGlzIFwwIg0KIA0KICAudGV4dA0KICAuZ2xvYmFsIF9zdGFydA0KDQogX3N0
+YXJ0Og0KICAgICBsZWEgcmN4LCBHcmVldGluZw0KICAgICBjYWxsIFByaW50
+U3RyaW5nWg0KDQogICAgIGNhbGwgU2NhbkludA0KICAgICBtb3YgV29yaywg
+cmN4DQoNCiAgICAgbGVhIHJjeCwgTmFtZQ0KICAgICBjYWxsIFByaW50U3Ry
+aW5nWg0KDQogICAgIGNhbGwgU2NhbkludA0KICAgICBtb3YgR2FsbG9ucywg
+cmN4DQoNCiAgICAgbGVhIHJjeCwgUXVvdGUNCiAgICAgY2FsbCBQcmludFN0
+cmluZ1oNCg0KICAgICBjYWxsIFNjYW5JbnQNCiAgICAgbW92IEdyb2Nlcmll
+cywgcmN4DQoNCiAgICAgbGVhIHJjeCwgWWVhcg0KICAgICBjYWxsIFByaW50
+U3RyaW5nWg0KDQogICAgIGNhbGwgU2NhbkludA0KICAgICBtb3YgUG93ZXIs
+IHJjeA0KDQogICAgIGxlYSByY3gsIEluY29tZQ0KICAgICBjYWxsIFByaW50
+U3RyaW5nWg0KDQogICAgIG1vdiByY3gsIFdvcmsNCiAgICAgYWRkIHJjeCwg
+R2FsbG9ucw0KDQogICAgIGNhbGwgUHJpbnRJbnQNCg0KICAgICBsZWEgcmN4
+LCBFeHBlbnNlDQogICAgIGNhbGwgUHJpbnRTdHJpbmdaDQoNCiAgICAgbW92
+IHJjeCwgR3JvY2VyaWVzDQogICAgIGFkZCByY3gsIFBvd2VyDQoNCiAgICAg
+Y2FsbCBQcmludEludA0KDQogICAgIGxlYSByY3gsIENhc2hmbG93DQogICAg
+IGNhbGwgUHJpbnRTdHJpbmdaDQoNCiAgICAgbW92IHJjeCwgV29yaw0KICAg
+ICBhZGQgcmN4LCBHYWxsb25zDQogICAgIHN1YiByY3gsIFBvd2VyDQogICAg
+IHN1YiByY3gsIEdyb2Nlcmllcw0KDQogICAgIGNhbGwgUHJpbnRJbnQNCg0K
+ICAgICBjYWxsIEV4aXQNCg==
+
+--1451368892-465408354-1655159260=:16400--
+
+From samirkhan2@ecs-pa-coding1.ecs.csus.edu Wed Jun 22 15:13:59 2022 -0700
+Date: Wed, 22 Jun 2022 15:13:59 -0700 (PDT)
+From: samirkhan2 <samirkhan2@ecs-pa-coding1.ecs.csus.edu>
+To: dcook@csus.edu
+Subject: Lab3
+Message-ID: <a41d2fe5-f43d-f661-607d-46c58a55d68@ecs-pa-coding1.ecs.csus.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1451368892-1855178883-1655936039=:31737"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 3
+
+--1451368892-1855178883-1655936039=:31737
+Content-Type: text/plain; format=flowed; charset=US-ASCII
+
+--1451368892-1855178883-1655936039=:31737
+Content-Type: text/plain; charset=US-ASCII; name=lab3.asm
+Content-Transfer-Encoding: BASE64
+Content-ID: <8b11b24e-d585-a00-ee27-e56f16898c45@ecs-pa-coding1.ecs.csus.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab3.asm
+
+LmludGVsX3N5bnRheCBub3ByZWZpeA0KLmRhdGENCg0KICBmaXJzdHE6DQog
+ICAgLmFzY2lpICJIZWxsbywgZGlkIHlvdSB3YXNoIHlvdXIgaGFuZHMgcHJp
+b3IgdG8gZ2V0dGluZyBzaWNrICgxPXllcyAyPW5vKVxuXDAiDQoNCiAgc2lj
+azoNCiAgICAucXVhZCAwDQogICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICANCiAgc2Vjb25kcToNCiAgICAuYXNjaWkg
+IkRpZCB5b3UgZWF0IGFsbCBvZiB5b3VyIHZpdGFtaW5zPyAoMT15ZXMgMj1u
+bylcblwwIg0KDQogICB2aXRhbWluOg0KICAgICAucXVhZCAwDQoNCiAgdGhp
+cmRxOg0KICAgIC5hc2NpaSAiRGlkIHlvdSBzYW50aXplIGFuZCBjbGVhbiB5
+b3VyIHJvb20/ICgxPXllcyAyPW5vKVxuXDAiDQoNCiAgIHNhbml0aXplOg0K
+ICAgICAucXVhZCAwDQoNCiAgZm91cnRocToNCiAgICAuYXNjaWkgIkRpZCB5
+b3UgaGF2ZSBhIHNvcmUgdGhyb2F0IGJlZm9yZSBnZXR0aW5nIHNpY2s/ICgx
+PXllcyAyPW5vKVxuXDAiDQoNCiAgIHNvcmU6DQogICAgIC5xdWFkIDANCg0K
+ICBmaWZ0aHE6DQogICAgLmFzY2lpICJXZXJlIHlvdSBzdHJlc3NlZCBvdXQg
+YmVmb3JlIGdldHRpbmcgc2ljaz8gKDE9eWVzIDI9bm8pXG5cMCINCg0KICAg
+IHN0cmVzczoNCiAgICAgLnF1YWQgMA0KDQogIG9wdDE6DQogICAgLmFzY2lp
+ICJPaCBtYW4hIFlvdSBhcmUgc28gc3RyZXNzZWQhISBHbyBzZWUgYSBkb2N0
+b3Igbm93IVxuXDAiDQoNCiAgb3B0MjoNCiAgICAuYXNjaWkgIkxldHNzcyBn
+b29vb28hIFlvdSBhcmUgbm90IHN0cmVzc2VkIGF0IGFsbCEgR28gY29kZSBz
+b21lIHVuaXghXG5cMCINCg0KICAgLnRleHQNCiAgIC5nbG9iYWwgX3N0YXJ0
+DQoNCl9zdGFydDoNCg0KICAgbW92cSByYngsIDENCg0KICAgbGVhIHJjeCwg
+Zmlyc3RxDQogICBjYWxsIFByaW50U3RyaW5nWg0KICANCiAgIGNhbGwgU2Nh
+bkludA0KICAgY21wIHJjeCwgMQ0KICAgamUgVGhlbg0KDQogICAjZmFsc2Ug
+YmxvY2sNCiAgIGptcCBZZXINCiBUaGVuOg0KICAgIG1vdnEgcmF4LCAyNQ0K
+ICAgIGFkZCByYngsIHJheA0KWWVyOg0KICAgbGVhIHJjeCwgc2Vjb25kcQ0K
+ICAgY2FsbCBQcmludFN0cmluZ1oNCg0KICAgY2FsbCBTY2FuSW50DQogICBj
+bXAgcmN4LCAxDQogICBqZSBEaGVuDQogDQogICAjZmFsc2UgYmxvY2sNCiAg
+IGptcCBCZXINCiBEaGVuOg0KICAgbW92cSByYXgsIDEwDQogICBhZGQgcmJ4
+LCByYXgNCiAgIA0KQmVyOg0KICAgbGVhIHJjeCwgdGhpcmRxDQogICBjYWxs
+IFByaW50U3RyaW5nWg0KICAgDQogICBjYWxsIFNjYW5JbnQNCiAgIGNtcCBy
+Y3gsIDENCiAgIGplIEJoZW4NCiANCiAgICNmYWxzZSBibG9jaw0KICAgam1w
+IEZlcg0KIEJoZW46DQogICBtb3ZxIHJheCwgMzANCiAgIGFkZCByYngsIHJh
+eA0KRmVyOg0KICAgbGVhIHJjeCwgZm91cnRocQ0KICAgY2FsbCBQcmludFN0
+cmluZ1oNCg0KICAgY2FsbCBTY2FuSW50DQogICBjbXAgcmN4LCAxDQogICBq
+ZSBLaGVuDQoNCiAgICNmYWxzZSBibG9jaw0KICAgam1wIEtlcg0KIEtoZW46
+DQogICBtb3ZxIHJheCwgMTUNCiAgIGFkZCByYngsIHJheA0KIEtlcjoNCiAg
+IGxlYSByY3gsIGZpZnRocQ0KICAgY2FsbCBQcmludFN0cmluZ1oNCg0KICAg
+Y2FsbCBTY2FuSW50DQogICBjbXAgcmN4LCAxDQogICBqZSBQaGVuDQoNCiAg
+ICNmYWxzZSBibG9jaw0KICAgam1wIEZvcg0KIFBoZW46DQogICBtb3ZxIHJh
+eCwgMjANCiAgIGFkZCByYngsIHJheA0KDQojVEhFIEZJTkFMIFFVRVNUSU9O
+DQoNCkZvcjoNCg0KICAgY21wIHJieCwgNTANCiAgIGpsICBVbnN0cmVzc2Vk
+DQoNCk5vcjoNCiAgIGxlYSByY3gsIG9wdDENCiAgIGNhbGwgUHJpbnRTdHJp
+bmdaDQoNCiAgIGptcCBFbmQNCg0KVW5zdHJlc3NlZDoNCiAgIGxlYSByY3gs
+IG9wdDINCiAgIGNhbGwgUHJpbnRTdHJpbmdaDQoNCkVuZDoNCiAgIGNhbGwg
+RXhpdA0KICAgDQogICANCiANCg==
+
+--1451368892-1855178883-1655936039=:31737--
+
+From samirkhan2@ecs-pa-coding1.ecs.csus.edu Wed Jun 22 16:01:43 2022 -0700
+Date: Wed, 22 Jun 2022 16:01:43 -0700 (PDT)
+From: samirkhan2 <samirkhan2@ecs-pa-coding1.ecs.csus.edu>
+To: dcook@csus.edu
+Subject: lab 4
+Message-ID: <22af7b47-f649-7c82-d93c-1535218b4b48@ecs-pa-coding1.ecs.csus.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1451368892-1449627179-1655938903=:988"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 4
+
+--1451368892-1449627179-1655938903=:988
+Content-Type: text/plain; format=flowed; charset=US-ASCII
+
+--1451368892-1449627179-1655938903=:988
+Content-Type: text/plain; charset=US-ASCII; name=lab4.asm
+Content-Transfer-Encoding: BASE64
+Content-ID: <81559b41-3647-cb49-4346-d2ea66f499e2@ecs-pa-coding1.ecs.csus.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab4.asm
+
+LmludGVsX3N5bnRheCBub3ByZWZpeA0KLmRhdGENCg0KIGdyZWV0Og0KICAg
+LmFzY2lpICJHcmVldGluZ3MgSG9nd2FydHMgc3R1ZGVudCEgQmVmb3JlIHlv
+dSBwYXNzIHlvdSBtdXN0IHBpY2sgYSBudW1iZXIgYmV0d2VlbiAxLTEwMCFc
+blwwIg0KDQogTnVtYmVyOg0KICAgLnF1YWQgMA0KIA0KIGxvdzoNCiAgIC5h
+c2NpaSAiVGhlIG51bWJlciBpcyBsb3dlciFcblwwIg0KDQogaGlnaDoNCiAg
+IC5hc2NpaSAiVGhlIG51bWJlciBpcyBoaWdoZXIhXG5cMCINCg0KDQogZ3Jh
+dHM6DQogICAuYXNjaWkgIllvdSBzaGFsbCBwYXNzIGF0bGFzdCEhIVxuXDAi
+DQoNCi50ZXh0DQouZ2xvYmFsIF9zdGFydA0KDQpfc3RhcnQ6DQogICBtb3Yg
+cmN4LCAxMDANCiAgIGNhbGwgUmFuZG9tDQogICBhZGQgcmN4LCAxDQogICBt
+b3YgTnVtYmVyLCByY3gNCg0KdG9wOg0KICAgbGVhIHJjeCwgZ3JlZXQNCiAg
+IGNhbGwgUHJpbnRTdHJpbmdaDQogICBjYWxsIFNjYW5JbnQNCg0KICAgY21w
+IHJjeCwgTnVtYmVyDQoNCiAgIGpsIEZvdw0KDQogICBqZyBQb3cNCg0KICAg
+amUgRmluYWxlDQoNClBvdzoNCiAgIGxlYSByY3gsIGxvdw0KICAgY2FsbCBQ
+cmludFN0cmluZ1oNCiAgIGptcCB0b3ANCg0KRm93Og0KICAgbGVhIHJjeCwg
+aGlnaA0KICAgY2FsbCBQcmludFN0cmluZ1oNCiAgIGptcCB0b3ANCg0KRmlu
+YWxlOg0KIA0KICAgbGVhIHJjeCwgZ3JhdHMNCiAgIGNhbGwgUHJpbnRTdHJp
+bmdaDQoNCiAgIGNhbGwgRXhpdA0K
+
+--1451368892-1449627179-1655938903=:988--
+
+From samirkhan2@ecs-pa-coding1.ecs.csus.edu Mon Jun 27 15:51:01 2022 -0700
+Date: Mon, 27 Jun 2022 15:51:01 -0700 (PDT)
+From: samirkhan2 <samirkhan2@ecs-pa-coding1.ecs.csus.edu>
+To: dcook@csus.edu
+Subject: lab 5 
+Message-ID: <473023b3-4497-83b-dc6-59b229b67e6a@ecs-pa-coding1.ecs.csus.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1451368892-792525231-1656370261=:24622"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 5
+
+--1451368892-792525231-1656370261=:24622
+Content-Type: text/plain; format=flowed; charset=US-ASCII
+
+--1451368892-792525231-1656370261=:24622
+Content-Type: text/plain; charset=US-ASCII; name=lab5.asm
+Content-Transfer-Encoding: BASE64
+Content-ID: <f563a2d-17a5-8666-9031-aa5078da732b@ecs-pa-coding1.ecs.csus.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab5.asm
+
+LmludGVsX3N5bnRheCBub3ByZWZpeA0KLmRhdGENCg0KIHB1bXA6DQogICAu
+YXNjaWkgIlB1bXBraW4gcGllIDogMTUgZ3JhbXNcblwwIg0KDQogYnV0dGVy
+Og0KICAgLmFzY2lpICJCdXR0ZXJiZWVyICA6IDMxIGdyYW1zXG5cMCINCg0K
+IGljZToNCiAgIC5hc2NpaSAiSWNlY3JlYW0gICAgOiAyNSBncmFtc1xuXDAi
+DQoNCiBwaWU6DQogICAuYXNjaWkgIkhvdyBtYW55IHB1bXBraW4gcGllcyBk
+byB5b3UgZWF0P1xuXDAiDQoNCi5xdWFkIDANCg0KIGJ1dDoNCiAgIC5hc2Np
+aSAiSG93IG1hbnkgZ2xhc3NlcyBvZiBidXR0ZXJiZWVyP1xuXDAiDQoNCi5x
+dWFkIDANCg0KIGNyZWFtOg0KICAgLmFzY2lpICJIb3cgbWFueSBjdXBzIG9m
+IGljZWNyZWFtP1xuXDAiDQoNCi5xdWFkIDANCg0KdG90YWw6DQogICAuYXNj
+aWkgInlvdXIgdG90YWwgc3VnYXIgaW4gZ3JhbXMgaXNcblwwIg0KDQpzdWdh
+cjoNCg0KIC5xdWFkIDANCg0Kc3R1ZGVudDoNCiAgIC5hc2NpaSAiSG93IG11
+Y2ggc3VnYXIgY2FuIHRoZSBzdHVkZW50IGhhdmU/XG5cMCINCg0Kc3R1ZDoN
+Cg0KICAucXVhZCAwDQoNCnRvdGFsMjoNCiAgIC5hc2NpaSAiVGhlIHN0dWRl
+bnQgY2FuIG9ubHkgZWF0IHRoaXMgbWFueSB0aW1lc1xuXDAiDQoNCnRvdDI6
+DQogICANCiAgLnF1YWQgMA0KDQoudGV4dA0KDQouZ2xvYmFsIF9zdGFydA0K
+DQpfc3RhcnQ6DQoNCmxlYSByY3gsIHB1bXANCmNhbGwgUHJpbnRTdHJpbmda
+DQoNCmxlYSByY3gsIGJ1dHRlcg0KY2FsbCBQcmludFN0cmluZ1oNCg0KbGVh
+IHJjeCwgaWNlDQpjYWxsIFByaW50U3RyaW5nWg0KDQpsZWEgcmN4LCBwaWUN
+CmNhbGwgUHJpbnRTdHJpbmdaDQpjYWxsIFNjYW5JbnQNCmltdWwgcmN4LCAx
+NQ0KDQphZGQgc3VnYXIsIHJjeA0KDQpsZWEgcmN4LCBidXQNCmNhbGwgUHJp
+bnRTdHJpbmdaDQpjYWxsIFNjYW5JbnQNCmltdWwgcmN4LCAzMQ0KDQphZGQg
+c3VnYXIsIHJjeA0KDQpsZWEgcmN4LCBjcmVhbQ0KY2FsbCBQcmludFN0cmlu
+Z1oNCmNhbGwgU2NhbkludA0KaW11bCByY3gsIDI1DQoNCmFkZCBzdWdhciwg
+cmN4DQoNCmxlYSByY3gsIHRvdGFsDQpjYWxsIFByaW50U3RyaW5nWg0KbW92
+IHJjeCwgc3VnYXINCmNhbGwgUHJpbnRJbnQNCg0KDQpsZWEgcmN4LCBzdHVk
+ZW50DQpjYWxsIFByaW50U3RyaW5nWg0KY2FsbCBTY2FuSW50DQptb3YgcmF4
+LCByY3gNCmNxbw0KDQppZGl2cSBzdWdhciANCg0KbGVhIHJjeCwgdG90YWwy
+DQpjYWxsIFByaW50U3RyaW5nWg0KbW92IHJjeCwgcmF4DQpjYWxsIFByaW50
+SW50DQpsZWEgcmN4LCB0b3QyDQpjYWxsIFByaW50U3RyaW5nWg0KDQoNCmNh
+bGwgRXhpdA0KDQo=
+
+--1451368892-792525231-1656370261=:24622--
+
